@@ -1,0 +1,105 @@
+.navbar, .navbar-expand-lg, .navbar-light{ /*Espaçamento do topo pra section da logo*/
+    margin-top: 70px;
+}
+
+.navbar-nav{ /*Espaçamento entre a logo e as letras*/
+    margin-left: 260px;
+    
+}
+
+.nav-link{ /*Letras no topo*/ 
+    margin-right: 30px;
+    color: #242f51;
+    font-size: large;
+    font-weight: 500;
+    margin-top: 5px;
+}.nav-link:hover{
+    margin-right: 30px;
+    color: #fcae61;
+    font-size: large;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+
+#btn-try{ /*Botao FREE*/
+    background-color: #2500f9;
+    border-radius: 100px;
+    width: 150px;
+    height: 55px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: large;
+}#btn-try:hover{
+    background-color: #fff;
+    color: #2500f9;
+    border-radius:100px;
+    width: 150px;
+    height: 55px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: large;
+}
+
+/*Segunda parte*/
+
+#h1-img{ /*Modificar a 1/2 parte da segunda parte*/
+    padding-top: 310px;
+    color: #242f51;
+}
+#background-second h1{/*Modificar o h1 da segunda parte*/
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-size: 50px;
+}
+#background-second h5{ /*Modificar o h5 da segunda parte*/
+    color: #616368;
+}
+
+#background-second{
+    margin-top: 20px;
+    background-image: url(/img/Vector\ Smart\ Object2.png),url(/img/Layer\ 5.png);
+    background-repeat: no-repeat,no-repeat;
+    background-position: 15% 5%,bottom;
+}
+
+#btn-try2{ /*Botao try for free2*/
+    background-color: #2500f9;
+    border-radius: 100px;
+    width: 150px;
+    height: 55px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 20px;
+    margin-left: 5px;
+}#btn-try2:hover{
+    background-color: #fff;
+    color: #2500f9;
+    border-radius:100px;
+    width: 150px;
+    height: 55px;
+    margin-left: 20px;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+#background-second a{ /*Modificando href*/
+    color: #2500f9;
+    text-decoration: none;
+    border: 0;
+    padding-left: 30px;
+    font-weight: bold;
+    font-size: large;
+}#background-second a:hover{
+    color: #fcae61;
+    text-decoration: none;
+    border: 0;
+    padding-left: 30px;
+    font-weight: bold;
+    font-size: large;
+}
+
