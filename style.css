@@ -3,7 +3,7 @@
 }
 
 .navbar-nav{ /*Espaçamento entre a logo e as letras*/
-    margin-left: 260px;
+    margin-left: 250px;
     
 }
 
@@ -103,3 +103,36 @@
     font-size: large;
 }
 
+/*Terceira Parte*/
+
+#terceira-parte img{
+    margin-top: 150px;
+}#terceira-parte h2{
+    margin-top: 250px;
+    margin-left: 100px;
+    color: #242f51;
+    font-weight: 700;
+}#terceira-parte h5{
+    margin-top: 10px;
+    margin-left: 100px;
+    color: #616368; 
+}#terceira-parte button{
+    background-color: #2500f9;
+    border-radius: 100px;
+    width: 150px;
+    height: 55px;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: large;
+}#terceira-parte button:hover{
+    background-color: #fff;
+    color: #2500f9;
+    border-radius: 100px;
+    width: 150px;
+    height: 55px;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: large;
+}
